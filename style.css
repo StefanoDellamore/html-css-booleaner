@@ -16,3 +16,11 @@
     bottom: 10px;
 }
 
+/* Colore font informazioni*/
+.color {
+    color: grey;
+}
+
+span {
+    color: lightseagreen;
+}

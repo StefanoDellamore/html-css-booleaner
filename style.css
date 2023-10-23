@@ -16,11 +16,20 @@
     bottom: 10px;
 }
 
-/* Colore font informazioni*/
+/* font informazioni*/
+
+.font-size{
+    font-size: 9px;
+}
 .color {
     color: grey;
 }
 
-span {
+.blu {
     color: lightseagreen;
 }
+
+.yellow {
+    background-color: yellow;
+}
+

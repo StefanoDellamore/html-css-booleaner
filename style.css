@@ -1,4 +1,4 @@
-/* Inizio pattern sfondo*/
+/* Inizio pattern sfondo */
 .background {
     height: 150px;
     background-color: rgb(0, 119, 255);
@@ -16,7 +16,7 @@
     bottom: 10px;
 }
 
-/* font informazioni*/
+/* font informazioni */
 
 .font-size{
     font-size: 9px;
@@ -34,6 +34,33 @@
     text-decoration: none;
 }
 
+
+/* Tabella */
+
+.main-aligned-thead {
+    text-align: left;
+    background-color: #4ea0ff;
+    color: white;
+}
+
+.blue-table-row {
+    background-color: aliceblue;
+}
+
+.collapsed-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.width-25-cell {
+    width: 25%;
+}
+
+.width-50-cell {
+    width: 50%;
+}
+
+/* Immagini finali */
 .container{
     position: relative;
     width: 500px;
